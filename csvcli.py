@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 """
 Commandline Tool For Doing CSV operations:
-
 """
 
 import sys
